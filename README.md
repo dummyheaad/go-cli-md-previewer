@@ -43,6 +43,10 @@ Input can be passed using file (.md) and also using STDIN.
     ## Test 2
     EOF
 
+### Auto-preview to reopen file after modified (5 seconds interval)
+
+    ./autopreview.sh FILENAME
+
 ## Example
 Given this test.md file:
 
