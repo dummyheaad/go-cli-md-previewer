@@ -10,7 +10,7 @@ Input can be passed using file (.md) and also using STDIN.
 
 ### Build the executable
 
-    git build .
+    go build .
 
 ## Functionalities
 ### Preview a markdown file
